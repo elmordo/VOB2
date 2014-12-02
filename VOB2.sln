@@ -13,6 +13,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nadoby", "Nadoby\Nadoby.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Forms", "Forms\Forms.vcxproj", "{39BE8424-2089-4F33-93D5-F496DA4056F1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pool", "Pool\Pool.vcxproj", "{611B825E-81D6-4202-8723-65E22E850916}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adapter", "Adapter\Adapter.vcxproj", "{98E3AC04-70D7-4EC7-92E1-0A02FF785A21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -39,6 +43,14 @@ Global
 		{39BE8424-2089-4F33-93D5-F496DA4056F1}.Debug|Win32.Build.0 = Debug|Win32
 		{39BE8424-2089-4F33-93D5-F496DA4056F1}.Release|Win32.ActiveCfg = Release|Win32
 		{39BE8424-2089-4F33-93D5-F496DA4056F1}.Release|Win32.Build.0 = Release|Win32
+		{611B825E-81D6-4202-8723-65E22E850916}.Debug|Win32.ActiveCfg = Debug|Win32
+		{611B825E-81D6-4202-8723-65E22E850916}.Debug|Win32.Build.0 = Debug|Win32
+		{611B825E-81D6-4202-8723-65E22E850916}.Release|Win32.ActiveCfg = Release|Win32
+		{611B825E-81D6-4202-8723-65E22E850916}.Release|Win32.Build.0 = Release|Win32
+		{98E3AC04-70D7-4EC7-92E1-0A02FF785A21}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98E3AC04-70D7-4EC7-92E1-0A02FF785A21}.Debug|Win32.Build.0 = Debug|Win32
+		{98E3AC04-70D7-4EC7-92E1-0A02FF785A21}.Release|Win32.ActiveCfg = Release|Win32
+		{98E3AC04-70D7-4EC7-92E1-0A02FF785A21}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
